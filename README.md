@@ -2,5 +2,5 @@
 
 ### 平时作业
 
-- ![week1](week1.md)
+- [week1](week1.md)
 
