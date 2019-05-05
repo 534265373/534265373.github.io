@@ -6,3 +6,5 @@
 - [week2](week2.md)
 - [week3](week3.md)
 - [week6](week6.md)
+- [week7](week7.md)
+- [week9](week9.md)
