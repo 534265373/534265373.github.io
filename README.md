@@ -8,3 +8,5 @@
 - [week6](week6.md)
 - [week7](week7.md)
 - [week9](week9.md)
+### Note
+- [ECharts](./Note/方便的EChart------使用图表展示数据.md)
