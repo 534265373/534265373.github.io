@@ -18,7 +18,7 @@ npm install echarts
 ## 3. 在Vue框架中使用
 
 ### 3.1 调用
-[](./image/1.png)
+![](./image/1.png)
 在Vue框架的src文件下的main.js中写入：
 
 ```
@@ -42,7 +42,7 @@ import echarts from 'echarts'
 <div id="myChart" style="width:100%; height:400px;"></div>
 ```
 
-通过一个函数 drawLine() 来进行对图表 "myChart1" 的绘制
+通过一个函数 drawLine() 来进行对图表 "myChart" 的绘制
 
 ```
 drawLine () {
@@ -86,15 +86,15 @@ drawLine () {
 ```
 
 这样绘制出来的图就是：
-[](./image/2.png)
-  
+![](./image/2.png)
+
 #### 3.2.2 折线图
-  
+
 同样折线图也一样，只要修改一个参数就可以了，把series里的type 值修改为 ‘line'
-[](./image/3.png)
+![](./image/3.png)
 
 #### 3.2.3 饼图
-  
+
 饼图和折线图、柱状图有一点区别。主要是在参数和数据绑定上。饼图没有X轴和Y轴的坐标，数据绑定上也是采用value 和name对应的形式。
 
 ```
@@ -141,8 +141,8 @@ drawLine () {
 },
 ```
 这样绘制出来的图就是：
-[](./image/4.png)
+![](./image/4.png)
 
 ## 其他
 [此外还有许多图及样式可使用](https://www.echartsjs.com/examples/)
-[](./image/5.png)
+![](./image/5.png)
